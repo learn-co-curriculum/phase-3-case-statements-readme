@@ -1,6 +1,6 @@
 # `case` Statements
 
-##Objectives:
+## Objectives:
 
 1. Distinguish a `case` statement from other patterns of flow control.
 2. Identify when to use a `case` statement.
