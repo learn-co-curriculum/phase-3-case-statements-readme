@@ -148,6 +148,6 @@ case grade
 end
 ```
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/case-statements-readme'>Case Statements</a> on Learn.co and start learning to code for free.</p>
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/case-statements-readme'>About Ruby Case Statements</a> on Learn.co and start learning to code for free.</p>
+
+
