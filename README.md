@@ -1,4 +1,4 @@
-# `case` Statements
+# Case Statements
 
 ## Objectives:
 
